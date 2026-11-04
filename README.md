@@ -6,7 +6,7 @@ Tech Challenge, Fase 1. Análise executiva da receita do e-commerce Olist (cerca
 
 - Código: `Tech_Challenge_Olist_completo.ipynb`
 - Apresentação: 
-- Vídeo:
+- Vídeo: https://youtu.be/gsQvaSTv9PA
 
 ## Principais resultados
 
